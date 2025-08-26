@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-code_golf_dir = "/kaggle/input/google-code-golf-2025/"
+code_golf_dir = "google-code-golf-2025/"
 libraries = ["collections", "itertools", "math", "operator", "re", "string",
              "struct"]
 colors = [
